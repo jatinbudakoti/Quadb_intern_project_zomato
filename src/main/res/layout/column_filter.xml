@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:layout_marginRight="10dp"
+    android:alpha="0.7"
+    android:background="@drawable/filter_background">
+
+    <ImageView
+        android:id="@+id/image1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/filter_name"
+        android:layout_width="wrap_content"
+        android:paddingEnd="5dp"
+        android:paddingStart="5dp"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/image1"
+        android:textSize="14sp"/>
+
+    <ImageView
+        android:id="@+id/image2"
+        android:layout_toRightOf="@id/filter_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+
+
+</RelativeLayout>

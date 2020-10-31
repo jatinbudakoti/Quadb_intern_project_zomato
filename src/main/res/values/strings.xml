@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Quadb_Intern_Test</string>
+    <string name="order_tab">Order</string>
+    <string name="go_out_tab">Go Out</string>
+    <string name="pro_tab">Pro</string>
+    <string name="explore_tab">Explore</string>
+    <string name="profile_tab">Profile</string>
+    <string name="text">Greetings of the day, PFB your task/assignment based tests for your profiles  1) Business Development A PDF labelled Business Development Internship Assessment is attached. Please go through the same to know about your task. NOTE: Time allotted to complete this task is 24 hours and not 48 hours.    2) Content Writing A Document labelled Internship Assessment Content Writing (Finance) is attached. Please go through the same to know about your task.  3) Video Editing  A Document labelled Internship Assessment Video Editing is attached. Please go through the same to know about your task.  4) Graphic Designing A PDF labelled Graphic Designing Entrance Test is attached. Please go through the same to know about your task. Mail your submissions within 48 hours.  5) Web And App Development Below are two different sets of questions between which a student has to choose and attempt. You have the option of selecting either of the tasks and submitting only one of the two given below. NOTE: Time allotted to complete this task is 24 hours and not 48 hours.  Set 1 : https://docs.google.com/document/d/1xT-6c0cT3hjTrnFfTsb4GCkDrRmYOHiZxi5V8F1v0u0/edit  (Ignore the 6 hour timer point)  Set 2: https://docs.google.com/document/d/12N028L5APCkPUnfJruVR_GJCIrzKFcIwUZNwlqrdO4k/edit  6) UI/UX Designing Please find attached a Google form containing the task. https://docs.google.com/document/d/1Wt8O0tZtp7xDlo-f7kwx0WAQvDZQJ2geGUJT_9DIdc4/edit  7)  Digital Marketing Please find attached a document labelled Digital Marketing Interview Questions.Please go through the same to know about your task. Mail your submissions within 48 hours.  8) I\'ll send over the tasks for Video anchoring and Interviewing and Communication Strategist within 2 hours.Their timer will start accordingly.    NOTE for all the students 1) All the guidelines and instructions are mentioned in your individual tasks. 2) The timer of 48 hours starts the moment the mail is sent.( 24 hours for Web Dev and Business Dev).  3) Please understand and comprehend the questions to the best of your abilities, no doubts regarding the tasks will be entertained. 4) The submission method and guidelines have been specified in each and every task, kindly adhere to the same. 5) Please mention your Name, Branch,Roll No, Profile, Contact Number while sending out your submission email. Subject of each email should specify the profile you are sending the email for.  6) Speed of submission will also be a criteria for judgement, so get to it !!!!!  Good Luck    Warm Regards  Abhigyan Sharma Internship Cell Coordinator National Institute of Technology Kurukshetra Kurukshetra-136119 Haryana INDIA Phone: +91-9680801785</string>
+    <string name="search">Search for restaurants, cuisines...</string>
+    <string name="food">food</string>
+    <string name="market">market</string>
+    <string name="foodWork">food@work</string>
+    <string name="scan">scan</string>
+    <string name="address">address line 1</string>
+    <string name="home">Home</string>
+    <string name="neighbours">Your neighbours are ordering...</string>
+    <string name="see_more">see more</string>
+    <string name="top_brands">Top brands in spotlight</string>
+    <string name="quick_links">Quick links</string>
+    <string name="see_all">See all</string>
+    <string name="restaurants">6 Restaurants around you</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/order_tab"
+        android:title="@string/order_tab"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_local_mall_black_24dp"
+        />
+    <item
+        android:id="@+id/go_out_tab"
+        android:title="@string/go_out_tab"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_directions_walk_black_24dp"
+        />
+
+    <item
+        android:id="@+id/pro_tab"
+        android:title="@string/pro_tab"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        />
+    <item
+        android:id="@+id/explore_tab"
+        android:title="@string/explore_tab"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_explore_black_24dp"
+        />
+
+    <item
+        android:id="@+id/profile_tab"
+        android:title="@string/profile_tab"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_person_black_24dp"
+        />
+
+
+
+
+
+</menu>
